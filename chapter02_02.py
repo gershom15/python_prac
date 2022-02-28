@@ -13,7 +13,7 @@ x =y = z = 700
 print(x,y,z)
 
 # 선언
-var =75
+var =74
 
 # 재선언
 var ='change value'
