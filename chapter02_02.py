@@ -87,3 +87,14 @@ _AGE_ = 8
 
 # 예약어는 변수명으로 불가능
 for = 3  # 안됨
+"""
+False	def	if	raise
+None	del	import	return
+True	elif	in	try
+and	else	is	while
+as	except	lambda	with
+assert	finally	nonlocal	yield
+break	for	not
+class	from	or
+continue	global	pass
+""" # 안되는 것들
